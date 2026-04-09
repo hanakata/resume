@@ -8,9 +8,9 @@
 
 このリポジトリには、単なる経歴だけでなく、AIエージェント（Claude Code等）と協働して設計した「実装の設計図」を格納しています。
 
-  * **[RESUME.md](https://www.google.com/search?q=./RESUME.md)**:
+  * **RESUME.md**:
       * WinDbg/Wiresharkを用いた深層解析、銀行基盤のOSバグ特定、システム刷新の実績。
-  * **[blueprints/](https://www.google.com/search?q=./blueprints/)**:
+  * **blueprints/**:
       * **Low-Power BLE P2P Protocol**: Android 14/15の制限を回避する高密度パケット通信設計。
       * **Next-Gen Disaster Dashboard**: 実時系列データと移動検知を活用した動的避難誘導のアーキテクチャ。
 
